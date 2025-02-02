@@ -1,8 +1,11 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Movium 
 
-Currently, two official plugins are available:
+Web-app primarily created in order to deepen my knowledge with React, namely React Hooks.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# How it's made:
+
+This website was made using React and TailwindCSS, as well as using Appwrite for Database purposes.
+
+# Optimizations
+Further optimizing search 
